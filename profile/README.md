@@ -3,4 +3,4 @@
 
 bem130とその仲間たちが作ったものたち  
 
-[Documents](http://neknaj.bem130.f5.si/)
+[HomePage](http://neknaj.com/)
